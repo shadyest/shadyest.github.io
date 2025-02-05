@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Website of the Student Research Assistance of the Institute of Banking and Finance"
+title: "Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
